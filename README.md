@@ -1,1 +1,3 @@
 # RS-smarterLM
+
+The code and checkpoints will be released soon...
